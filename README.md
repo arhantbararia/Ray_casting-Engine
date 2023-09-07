@@ -1,5 +1,5 @@
 # Ray_casting-Engine
-DEMO:
+
 
 Controls
 - `Left Click to Add a Line Boundary`
@@ -11,6 +11,9 @@ Controls
 
 -`Press SPACEBAR to TOGGLE the light`
 
+# DEMO
 
-https://github.com/arhantbararia/Ray_casting-Engine/assets/61796574/711ee465-75d5-4e32-a2eb-778590f8d9de
+
+
+https://github.com/arhantbararia/Ray_casting-Engine/assets/61796574/72de73a2-8e7b-4f6c-b3b4-29434ab3ee36
 
